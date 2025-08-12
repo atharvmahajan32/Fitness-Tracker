@@ -1,0 +1,13 @@
+streamlit
+streamlit-lottie
+requests
+opencv-python
+cvzone
+numpy
+plotly
+mediapipe
+Pillow
+playsound
+openai
+toml
+streamlit-extras
