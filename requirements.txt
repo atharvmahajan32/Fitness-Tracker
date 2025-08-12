@@ -7,7 +7,7 @@ numpy
 plotly
 mediapipe
 Pillow
-playsound
+playsound==1.2.2
 openai
 toml
 streamlit-extras
