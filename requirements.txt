@@ -11,3 +11,4 @@ playsound==1.2.2
 openai
 toml
 streamlit-extras
+streamlit-webrtc
