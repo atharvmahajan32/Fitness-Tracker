@@ -49,7 +49,7 @@ last_second = 0
 counter = 0
 pose_number = 1
 
-img1 = Image.open("gif\yoga.gif")
+img1 = Image.open("gif/yoga.gif")
 
 img2 = Image.open("images/pranamasana2.png")
 img3 = Image.open("images/Eka_Pada_Pranamasana.png")
@@ -432,3 +432,4 @@ elif app_mode == "Track 2":
         
     cap.release()
    
+
