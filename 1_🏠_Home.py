@@ -63,7 +63,7 @@ img_lottie_animation = Image.open("./images/home.jpg")
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hello, welcome to our website :wave:")
-    st.title("AI Fitness Trainer")
+    st.title("AI Fitness Trainer (works locally only!!)")
     st.write(
         "Step into a fitter future: Welcome to your fitness revolution!"
     )
@@ -144,4 +144,5 @@ with st.container():
     with left_column:
         st.markdown(contact_form, unsafe_allow_html=True)
     with right_column:
+
         st.empty()
