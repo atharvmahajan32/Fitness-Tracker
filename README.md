@@ -45,9 +45,9 @@ git clone https://github.com/atharvmahajan32/Fitness-Tracker.git
 ```
 - Create a venv and install dependencies
 ```
-pip install uv 
-uv venv --python 3.9  #(works stably on python 3.9)
-.venv\Scripts\activate #(Activate venv)
+pip install uv
+uv venv --python 3.9
+.venv\Scripts\activate
 uv sync
 ```
 - Run the website
